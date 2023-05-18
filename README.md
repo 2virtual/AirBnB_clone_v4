@@ -147,7 +147,7 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) destroy BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
 (hbnb) show BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
 ** no instance found **
-(hbnb) quit
+(hbnb) quit...
 ```
 
 ## Bugs
